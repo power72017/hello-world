@@ -1,5 +1,5 @@
 #!/bin/bash  
-
+#dafasdf
 
 DETEC_USB_DISC_FLG=0
 DETEC_USB_DISC_DISCONNECT=1
